@@ -32,7 +32,7 @@ A responsive, feature-rich multi-page portfolio website tailored for schools and
 
 ---
 
-🧠 Future Enhancements
+## 🧠 Future Enhancements
 
 Add backend form submission (Firebase or EmailJS)
 
